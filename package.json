@@ -1,0 +1,22 @@
+{
+  "name": "opencli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "cli"
+  ],
+  "bin": {
+    "opcli": "./bin/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "yargs": "^17.7.2"
+  }
+}
